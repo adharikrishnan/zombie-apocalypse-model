@@ -1,5 +1,5 @@
 # Zombie-Apocalypse-Model
-2D simulation of a Zombie Apocalypse created with [Netlogo](http://ccl.northwestern.edu/netlogo/).
+2D simulation model of a Zombie Apocalypse created with [Netlogo](http://ccl.northwestern.edu/netlogo/).
 
 ![Model Screenshot](https://github.com/adharikrishnan/Zombie-Apocalypse-Model/blob/main/interface%20screenshot.png) 
 
